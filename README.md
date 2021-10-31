@@ -5,19 +5,19 @@ features that make it literally the best terminal emulator ever:
 
 ## Unique features (using dmenu)
 
-+ **follow urls** by pressing `alt-l`
-+ **copy urls** in the same way with `alt-y`
-+ **copy the output of commands** with `alt-o`
++ **follow urls** by pressing `ctrl-l`
++ **copy urls** in the same way with `ctrl-y`
++ **copy the output of commands** with `ctrl-o`
 
 ## Bindings for
 
-+ **scrollback** with `alt-↑/↓` or `alt-pageup/down` or `shift` while scrolling the
++ **scrollback** with `ctrl-↑/↓` or `ctrl-pageup/down` or `shift` while scrolling the
   mouse.
-+ OR **vim-bindings**: scroll up/down in history with `alt-k` and `alt-j`.
-  Faster with `alt-u`/`alt-d`.
++ OR **vim-bindings**: scroll up/down in history with `ctrl-k` and `ctrl-j`.
+  Faster with `ctrl-u`/`ctrl-d`.
 + **zoom/change font size**: same bindings as above, but holding down shift as
-  well. `alt-home` returns to default
-+ **copy text** with `alt-c`, **paste** is `alt-v` or `shift-insert`
+  well. `ctrl-home` returns to default
++ **copy text** with `ctrl-c`, **paste** is `ctrl-v` or `shift-insert`
 
 ## Pretty stuff
 
