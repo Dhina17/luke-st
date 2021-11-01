@@ -13,8 +13,8 @@ features that make it literally the best terminal emulator ever:
 
 + **scrollback** with `ctrl-↑/↓` or `ctrl-pageup/down` or `shift` while scrolling the
   mouse.
-+ OR **vim-bindings**: scroll up/down in history with `ctrl-k` and `ctrl-j`.
-  Faster with `ctrl-u`/`ctrl-d`.
++ OR **vim-bindings**: scroll up/down in history with `alt-k` and `alt-j`.
+  Faster with `alt-u`/`alt-d`.
 + **zoom/change font size**: same bindings as above, but holding down shift as
   well. `ctrl-home` returns to default
 + **copy text** with `ctrl-c`, **paste** is `ctrl-v` or `shift-insert`
